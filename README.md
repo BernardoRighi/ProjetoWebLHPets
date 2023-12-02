@@ -4,9 +4,7 @@ Atividade do curso Senai Full Stack na disciplina de Codificação para Back-End
 Atividade 2 - Projeto Web LH-Pets
 
 Descrição:
-Para realizar esta atividade além de estudar o conteúdo do Material digital, sobretudo o desafio 1, é importante que faça a instalação do SQL Server e do SQL Server Management Studio. Se necessário, você pode seguir os seguintes tutoriais:
-- Instalar o SQL Server;
-- Instalar o SQL Server Management Studio.
+Para realizar esta atividade além de estudar o conteúdo do Material digital, sobretudo o desafio 1, é importante que faça a instalação do SQL Server e do SQL Server Management Studio.
 
 Após a instalação, você deve criar a instalação e a configuração de um sistema fictício para uma aplicação Back-end. Você deverá preparar um ambiente para projetos de sistemas web, com a criação do projeto configurado com as rotas “/” e “/index”.
 
